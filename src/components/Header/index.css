@@ -1,0 +1,115 @@
+@media screen and (min-width: 768px) {
+  .header-bg {
+    background-color: #ffffff;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 100%;
+    padding: 20px;
+  }
+
+  .link {
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;
+    text-decoration: none;
+    color: #262626;
+    cursor: pointer;
+  }
+
+  .top-headers {
+    display: flex;
+    align-items: center;
+    width: Hug (482px);
+    height: Hug (19px);
+    top: 14px;
+    left: 206px;
+    gap: 40px;
+  }
+
+  .offers-link {
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-decoration: none;
+    text-align: left;
+    color: #7d7d7d;
+  }
+
+  .courses-btn {
+    width: Hug (127px);
+    height: Hug (51px);
+    padding: 16px 32px 16px 32px;
+    border-radius: 30px;
+    gap: 16px;
+    background-color: #f27a44;
+    border: 0;
+    color: #ffffff;
+    outline: none;
+    cursor: pointer;
+    margin-left: 30px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .header-bg {
+    background-color: #ffffff;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 768px;
+    padding: 20px;
+  }
+
+  .link {
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;
+    text-decoration: none;
+    color: #262626;
+    cursor: pointer;
+  }
+
+  .top-headers {
+    display: flex;
+    align-items: center;
+    width: Hug (482px);
+    height: Hug (19px);
+    top: 14px;
+    left: 206px;
+    gap: 40px;
+  }
+
+  .offers-link {
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-decoration: none;
+    text-align: left;
+    color: #7d7d7d;
+  }
+
+  .courses-btn {
+    width: Hug (127px);
+    height: Hug (51px);
+    padding: 16px 32px 16px 32px;
+    border-radius: 30px;
+    gap: 16px;
+    background-color: #f27a44;
+    border: 0;
+    color: #ffffff;
+    outline: none;
+    cursor: pointer;
+    margin-left: 30px;
+  }
+}
